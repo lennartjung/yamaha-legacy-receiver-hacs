@@ -33,8 +33,8 @@ git add .
 # Ersten Commit
 git commit -m "Initial commit - Yamaha Legacy Receiver integration v1.0.0"
 
-# Remote hinzufügen (ersetze YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs.git
+# Remote hinzufügen (ersetze lennartjung)
+git remote add origin https://github.com/lennartjung/yamaha-legacy-receiver-hacs.git
 
 # Branch umbenennen zu main
 git branch -M main
@@ -49,19 +49,19 @@ Bevor du veröffentlichst, ersetze in folgenden Dateien:
 
 ### `manifest.json`
 ```json
-"documentation": "https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs",
-"issue_tracker": "https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/issues",
-"codeowners": ["@YOUR_USERNAME"]
+"documentation": "https://github.com/lennartjung/yamaha-legacy-receiver-hacs",
+"issue_tracker": "https://github.com/lennartjung/yamaha-legacy-receiver-hacs/issues",
+"codeowners": ["@lennartjung"]
 ```
 
 ### `README.md`
 Alle Vorkommnisse von:
-- `YOUR_USERNAME` → Dein GitHub Username
+- `lennartjung` → Dein GitHub Username
 - `[YOUR NAME]` → Dein Name (in LICENSE)
 
 ### `info.md`
 Alle Vorkommnisse von:
-- `YOUR_USERNAME` → Dein GitHub Username
+- `lennartjung` → Dein GitHub Username
 
 ## Schritt 3: Ersten Release erstellen
 
@@ -99,7 +99,7 @@ First official release! 🎉
 ## Installation
 
 Install via HACS:
-1. Add custom repository: `https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs`
+1. Add custom repository: `https://github.com/lennartjung/yamaha-legacy-receiver-hacs`
 2. Search for "Yamaha Legacy Receiver"
 3. Install and restart Home Assistant
 
@@ -109,7 +109,7 @@ Install via HACS:
 
 ## Documentation
 
-See [README.md](https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs) for full documentation.
+See [README.md](https://github.com/lennartjung/yamaha-legacy-receiver-hacs) for full documentation.
 ```
 
 6. Click "Publish release"
@@ -148,7 +148,7 @@ User können deine Integration als Custom Repository hinzufügen:
 
 1. In Home Assistant → HACS → Integrations
 2. Three dots (oben rechts) → Custom repositories
-3. Repository URL: `https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs`
+3. Repository URL: `https://github.com/lennartjung/yamaha-legacy-receiver-hacs`
 4. Category: Integration
 5. Click "Add"
 
@@ -222,12 +222,12 @@ I've created a custom integration for the Yamaha Legacy Receiver AV Receiver.
 
 ## Installation
 Via HACS custom repository:
-https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs
+https://github.com/lennartjung/yamaha-legacy-receiver-hacs
 
 ## Feedback Welcome
 This is my first integration, feedback welcome!
 
-GitHub: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs
+GitHub: https://github.com/lennartjung/yamaha-legacy-receiver-hacs
 ```
 
 ### Reddit
@@ -273,7 +273,7 @@ HACS hat automatische Checks. Stelle sicher:
 
 ## Checkliste vor Veröffentlichung
 
-- [ ] Alle `YOUR_USERNAME` ersetzt
+- [ ] Alle `lennartjung` ersetzt
 - [ ] Alle `[YOUR NAME]` ersetzt
 - [ ] Git Repository initialisiert
 - [ ] Auf GitHub gepusht

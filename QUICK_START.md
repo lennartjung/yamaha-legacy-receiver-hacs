@@ -39,7 +39,7 @@ yamaha-legacy-receiver-hacs/
 
 Ersetze in **allen Dateien** folgende Platzhalter:
 
-- `YOUR_USERNAME` → Dein GitHub Username
+- `lennartjung` → Dein GitHub Username
 - `[YOUR NAME]` → Dein voller Name (für LICENSE)
 
 **Betroffen:**
@@ -52,7 +52,7 @@ Ersetze in **allen Dateien** folgende Platzhalter:
 **Schnellweg (Linux/Mac):**
 ```bash
 # In yamaha-legacy-receiver-hacs/ Verzeichnis
-find . -type f -name "*.md" -o -name "*.json" | xargs sed -i 's/YOUR_USERNAME/dein-username/g'
+find . -type f -name "*.md" -o -name "*.json" | xargs sed -i 's/lennartjung/dein-username/g'
 find . -type f -name "*.md" -o -name "LICENSE" | xargs sed -i 's/\[YOUR NAME\]/Dein Name/g'
 ```
 

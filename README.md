@@ -26,7 +26,7 @@ _Home Assistant integration for Yamaha Legacy Receiver AV Receiver using the XML
 1. Ensure [HACS](https://hacs.xyz/) is installed
 2. In Home Assistant, go to HACS → Integrations
 3. Click the three dots in the top right → Custom repositories
-4. Add repository URL: `https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs`
+4. Add repository URL: `https://github.com/lennartjung/yamaha-legacy-receiver-hacs`
 5. Category: Integration
 6. Click "Add"
 7. Search for "Yamaha Legacy Receiver" and click "Download"
@@ -332,7 +332,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs.git
+git clone https://github.com/lennartjung/yamaha-legacy-receiver-hacs.git
 cd yamaha-legacy-receiver-hacs
 
 # Copy to Home Assistant
@@ -376,7 +376,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 💬 [Community Forum][forum]
 - 🐛 [Issue Tracker][issues]
-- 📖 [Documentation](https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/wiki)
+- 📖 [Documentation](https://github.com/lennartjung/yamaha-legacy-receiver-hacs/wiki)
 
 ---
 
@@ -384,14 +384,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/YOUR_USERNAME/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
-[commits]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/lennartjung/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
+[commits]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/commits/main
 [hacs]: https://github.com/hacs/integration
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-[license-shield]: https://img.shields.io/github/license/YOUR_USERNAME/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-YOUR_USERNAME-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/YOUR_USERNAME/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
-[releases]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/releases
-[issues]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/issues
+[license-shield]: https://img.shields.io/github/license/lennartjung/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-lennartjung-blue.svg?style=for-the-badge
+[releases-shield]: https://img.shields.io/github/release/lennartjung/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
+[releases]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/releases
+[issues]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/issues

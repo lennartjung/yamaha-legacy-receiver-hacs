@@ -26,5 +26,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Full integration with Home Assistant
 - HACS compatibility
 
-[Unreleased]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/releases/tag/v1.0.0
+[Unreleased]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/releases/tag/v1.0.0

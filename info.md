@@ -39,7 +39,7 @@ Home Assistant integration for legacy Yamaha AV Receivers (2005-2009) using the 
 2. Click on "Integrations"
 3. Click the three dots in the top right corner
 4. Select "Custom repositories"
-5. Add this repository URL: `https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs`
+5. Add this repository URL: `https://github.com/lennartjung/yamaha-legacy-receiver-hacs`
 6. Select category: "Integration"
 7. Click "Add"
 8. Find "Yamaha Legacy Receiver" in HACS and install it
@@ -149,10 +149,10 @@ This integration was created using the Yamaha Network Control (YNC) XML protocol
 
 ---
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/YOUR_USERNAME/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
-[commits]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/commits/main
-[license-shield]: https://img.shields.io/github/license/YOUR_USERNAME/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-YOUR_USERNAME-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/YOUR_USERNAME/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
-[releases]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/releases
-[issues]: https://github.com/YOUR_USERNAME/yamaha-legacy-receiver-hacs/issues
+[commits-shield]: https://img.shields.io/github/commit-activity/y/lennartjung/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
+[commits]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/commits/main
+[license-shield]: https://img.shields.io/github/license/lennartjung/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-lennartjung-blue.svg?style=for-the-badge
+[releases-shield]: https://img.shields.io/github/release/lennartjung/yamaha-legacy-receiver-hacs.svg?style=for-the-badge
+[releases]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/releases
+[issues]: https://github.com/lennartjung/yamaha-legacy-receiver-hacs/issues

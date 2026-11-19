@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Yamaha Receiver",
+        "description": "Enter the IP address of your Yamaha receiver",
+        "data": {
+          "host": "IP Address"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the receiver. Please check the IP address and ensure the receiver is powered on.",
+      "unknown": "Unexpected error occurred"
+    },
+    "abort": {
+      "already_configured": "This receiver is already configured"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configure Zones",
+        "description": "Select which zones to control",
+        "data": {
+          "zones": "Active Zones"
+        }
+      }
+    }
+  }
+}

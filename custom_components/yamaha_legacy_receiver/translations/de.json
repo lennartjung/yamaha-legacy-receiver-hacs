@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Yamaha Receiver konfigurieren",
+        "description": "Geben Sie die IP-Adresse Ihres Yamaha Receivers ein",
+        "data": {
+          "host": "IP-Adresse"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung zum Receiver fehlgeschlagen. Bitte überprüfen Sie die IP-Adresse und stellen Sie sicher, dass der Receiver eingeschaltet ist.",
+      "unknown": "Unerwarteter Fehler aufgetreten"
+    },
+    "abort": {
+      "already_configured": "Dieser Receiver ist bereits konfiguriert"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Zonen konfigurieren",
+        "description": "Wählen Sie aus, welche Zonen gesteuert werden sollen",
+        "data": {
+          "zones": "Aktive Zonen"
+        }
+      }
+    }
+  }
+}

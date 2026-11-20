@@ -1,12 +1,12 @@
 {
   "domain": "yamaha_legacy_receiver",
   "name": "Yamaha Legacy Receiver",
-  "version": "1.0.3",
-  "documentation": "https://github.com/lennartjung/yamaha-legacy-receiver-hacs",
-  "issue_tracker": "https://github.com/lennartjung/yamaha-legacy-receiver-hacs/issues",
-  "requirements": [],
   "codeowners": ["@lennartjung"],
   "config_flow": true,
+  "documentation": "https://github.com/lennartjung/yamaha-legacy-receiver-hacs",
+  "integration_type": "hub",
   "iot_class": "local_polling",
-  "integration_type": "hub"
+  "issue_tracker": "https://github.com/lennartjung/yamaha-legacy-receiver-hacs/issues",
+  "requirements": [],
+  "version": "1.0.4"
 }
